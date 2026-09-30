@@ -4,6 +4,10 @@
 
 正式版採 Cloudflare Worker 同時提供前端與 API。Gemini API Key 僅存放於 Cloudflare Secret，不會進入前端 bundle 或 Git 紀錄。
 
+## 正式網址
+
+https://woodmall-quickbill-converter.irene-774.workers.dev
+
 ## 本地開發
 
 需求：Node.js 20 以上、Cloudflare 帳號。
